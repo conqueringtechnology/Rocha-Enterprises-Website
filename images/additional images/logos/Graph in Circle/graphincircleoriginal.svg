@@ -1,0 +1,21 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="svgcanvas" class="svgcanvas" width="100%" height="100%">
+	<g data-item-type="text" data-item="enterprise" id="logoenterprise" class="logoenterprise">    
+		<g>
+			<g>
+				<polygon fill="#404041" points="27.952,84.373 47.535,75.102 9.834,66.421" data-part-id="logo__item--logo_0__0"></polygon>
+				<polygon fill="#404041" points="69.656,16.515 50.074,25.796 87.775,34.47" data-part-id="logo__item--logo_0__1"></polygon>
+				<polygon fill="#404041" points="14.875,29.591 24.153,49.178 32.831,11.474" data-part-id="logo__item--logo_0__2"></polygon>
+				<polygon fill="#404041" points="82.732,71.303 73.455,51.713 64.781,89.414" data-part-id="logo__item--logo_0__3"></polygon>
+				<polygon fill="#BE1E2D" points="58.049,89.182 65.338,68.769 32.546,89.296" data-part-id="logo__item--logo_0__4"></polygon>
+				<polygon fill="#BE1E2D" points="39.56,11.709 32.275,32.119 65.066,11.591" data-part-id="logo__item--logo_0__5"></polygon>
+				<polygon fill="#BE1E2D" points="10.066,59.692 30.476,66.977 9.952,34.185" data-part-id="logo__item--logo_0__6"></polygon>
+				<polygon fill="#BE1E2D" points="87.539,41.199 67.137,33.915 87.656,66.706" data-part-id="logo__item--logo_0__7"></polygon>
+			</g>
+			<g>
+				<rect x="41.046" y="47.854" transform="matrix(0.0064 1 -1 0.0064 107.484 -7.3906)" fill="#BE1E2D" width="32.83" height="5.072" data-part-id="logo__item--logo_0__8"></rect>
+				<rect x="34.867" y="50.373" transform="matrix(0.0062 1 -1 0.0062 101.4222 3.7586)" fill="#404041" width="27.907" height="5.069" data-part-id="logo__item--logo_0__9"></rect>
+				<rect x="28.689" y="52.888" transform="matrix(0.0063 1 -1 0.0063 95.3485 14.8955)" fill="#404041" width="22.979" height="5.073" data-part-id="logo__item--logo_0__10"></rect>
+			</g>
+		</g>
+	</g>
+</svg>
